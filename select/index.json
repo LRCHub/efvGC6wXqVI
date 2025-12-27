@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "センスレス・ワンダー",
+  "base_artist": "hitorie",
+  "createdAt": "2025-12-27T11:42:37.820764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/01_センスレス・ワンダー_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/02_センスレス・ワンダー_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/03_センスレス・ワンダー_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー [ReREC]",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/04_センスレス・ワンダー_[ReREC]_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー[Original Rec 2024 Mix]",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/05_センスレス・ワンダー[Original_Rec_2024_Mix]_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー[ReREC]",
+      "artist": "HITORIE",
+      "has_synced": true,
+      "path": "select/06_センスレス・ワンダー[ReREC]_HITORIE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/07_センスレス・ワンダー_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/08_センスレス・ワンダー_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "センスレス・ワンダー (2016.4.29 LIVE at STUDIO COAST)",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/09_センスレス・ワンダー_(2016.4.29_LIVE_at_STUDIO_COAST)_ヒトリエ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_01_センスレス・ワンダー_ヒトリエ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_02_センスレス・ワンダー_ヒトリエ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_03_センスレス・ワンダー_ヒトリエ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_04_センスレス・ワンダー_ヒトリエ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "センスレス・ワンダー",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_05_センスレス・ワンダー_ヒトリエ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "センスレス・ワンダー[ReREC]",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_06_センスレス・ワンダー[ReREC]_ヒトリエ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "センスレス・ワンダー[Original Rec 2024 Mix]",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/pl_07_センスレス・ワンダー[Original_Rec_2024_Mix]_ヒトリエ.txt"
+    }
+  ]
+}
